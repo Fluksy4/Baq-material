@@ -1,0 +1,72 @@
+div {
+    
+    border: 3px solid black;
+    
+
+}
+
+body{
+    margin: 20px;
+    background-color: gray;
+}
+
+img{
+    padding: 20px;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+
+}
+
+
+
+nav{
+    display: flex;
+}
+a{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-decoration: none;
+    display: list-item;
+    margin-bottom: 5px;
+    color: black;
+    border: 1px solid black;
+    background-color: rgb(77, 77, 77);
+    text-transform: uppercase;
+}
+
+.f-cont{
+
+    width: 35%;
+}
+
+h1{
+    font-size: 20px;
+}
+
+
+.s-cont {
+   
+    padding: 20px;
+    
+}
+
+
+.mini-port{
+    padding: 20px;
+    height: auto;
+   width: auto;
+   margin-right: auto;
+   margin-left: auto;
+   display: inline-block;
+}
+.mini-port img {
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+}
+

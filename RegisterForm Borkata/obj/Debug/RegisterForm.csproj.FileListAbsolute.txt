@@ -1,0 +1,56 @@
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\obj\Debug\RegisterForm.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\Student\Desktop\ \Boyan Metodiev 12g\RegisterForm\obj\Debug\RegisterForm.pdb
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.csproj.AssemblyReference.cache
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\b0bs1\Downloads\RegisterForm-20230227T174631Z-001\RegisterForm\obj\Debug\RegisterForm.pdb
+C:\Users\b0bs1\Desktop\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\b0bs1\Desktop\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\b0bs1\Desktop\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.csproj.AssemblyReference.cache
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\b0bs1\Desktop\RegisterForm\obj\Debug\RegisterForm.pdb
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.csproj.AssemblyReference.cache
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\obj\Debug\RegisterForm.pdb
+C:\Users\b0bs1\Desktop\Shet\RegisterForm\bin\Debug\Vetov.mp4
+C:\Users\b0bs1\Desktop\RegisterForm\bin\Debug\Vetov.mp4
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\bin\Debug\RegisterForm.exe.config
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\bin\Debug\RegisterForm.exe
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\bin\Debug\RegisterForm.pdb
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.csproj.AssemblyReference.cache
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.Form1.resources
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.exe
+C:\Users\borka\OneDrive\Desktop\RegisterForm Borkata\obj\Debug\RegisterForm.pdb

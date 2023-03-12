@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterForm", "RegisterForm.csproj", "{76A51EE3-7DC7-4BF5-9053-212ED837A399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76A51EE3-7DC7-4BF5-9053-212ED837A399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A51EE3-7DC7-4BF5-9053-212ED837A399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A51EE3-7DC7-4BF5-9053-212ED837A399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A51EE3-7DC7-4BF5-9053-212ED837A399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60A3047-2ABD-4C7E-8ED8-25387D05F6D7}
+	EndGlobalSection
+EndGlobal

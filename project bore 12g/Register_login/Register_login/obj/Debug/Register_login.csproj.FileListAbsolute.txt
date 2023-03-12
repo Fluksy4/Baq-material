@@ -1,0 +1,11 @@
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\bin\Debug\Register_login.exe.config
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\bin\Debug\Register_login.exe
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\bin\Debug\Register_login.pdb
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.csproj.AssemblyReference.cache
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.csproj.SuggestedBindingRedirects.cache
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.Register_Login.resources
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.Properties.Resources.resources
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.csproj.GenerateResource.cache
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.csproj.CoreCompileInputs.cache
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.exe
+C:\Users\borka\OneDrive\Desktop\project bore 12g\Register_login\Register_login\obj\Debug\Register_login.pdb
